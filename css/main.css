@@ -1,0 +1,14 @@
+.opciones
+{
+	display: block;
+	margin-top: 20px;
+}
+fieldset
+{
+	margin: auto;
+}
+form
+{
+	width: 50%;
+	margin: auto;
+}
